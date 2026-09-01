@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31668233/README.md)
-# Conecta Pintores - Site Institucional
+﻿# Conecta Pintores - Site Institucional
 
 Este pacote contem o site completo da Conecta Pintores.
 
